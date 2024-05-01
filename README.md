@@ -1,5 +1,5 @@
 # BI-DASHBOARDS
-This repository is a collection of works and dashboards i have built in my career
+This repository is a collection of my worksheets and dashboards i have built in my career.
 
  TO VIEW THE FULL WORKSHEETS AND DASHBOARDS YOU CAN DOWNLOAD THE TWBX TABLEAU FILEAND OPEN IN ANY VERSION OF TABLEAU , EITHER TABLEAU DESKTOP OR TABLEAU PUBIC.
 
